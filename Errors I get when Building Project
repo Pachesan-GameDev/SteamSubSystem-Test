@@ -1,0 +1,14 @@
+Severity	Code	Description	Project	File	Line	Suppression State	Details
+Error (active)	E0070	incomplete type is not allowed	MenuSystem	E:\Unreal Engine Projects\UE5.3\UE_5.3\Engine\Source\Runtime\Core\Public\Containers\StringView.h	408		
+
+Severity	Code	Description	Project	File	Line	Suppression State	Details
+Error (active)	E0070	incomplete type is not allowed	MenuSystem	E:\Unreal Engine Projects\UE5.3\UE_5.3\Engine\Source\Runtime\Core\Public\Containers\StringView.h	415		
+
+Severity	Code	Description	Project	File	Line	Suppression State	Details
+Error (active)	E1455	member function declared with 'override' does not override a base class member	MenuSystem	E:\Unreal Engine Projects\UE5.3\UE_5.3\Engine\Source\Runtime\Core\Public\Serialization\ArchiveProxy.h	157
+
+Error (active)	E1455	member function declared with 'override' does not override a base class member	MenuSystem	E:\Unreal Engine Projects\UE5.3\UE_5.3\Engine\Source\Runtime\Core\Public\Serialization\ArchiveProxy.h	167
+
+Error	CA2017	Number of parameters supplied in the logging message template do not match the number of named placeholders (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca2017)	AutomationScripts.Automation	E:\Unreal Engine Projects\UE5.3\UE_5.3\Engine\Source\Programs\AutomationTool\Scripts\CheckForHacks.cs	87	Active	
+
+Error	CS8604	Possible null reference argument for parameter 'other' in 'void HashSet<string>.UnionWith(IEnumerable<string> other)'.	BuildGraph.Automation	E:\Unreal Engine Projects\UE5.3\UE_5.3\Engine\Source\Programs\AutomationTool\BuildGraph\BgScriptReader.cs	1640	Active	
